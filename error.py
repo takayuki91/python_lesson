@@ -7,3 +7,5 @@
 
 undefined_variable = 'something'
 print(undefined_variable)
+
+# テスト
