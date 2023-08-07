@@ -1,12 +1,9 @@
-# result = 100 / 0  # バグ "bug" <- デバッグ　"debug"
-# print("hello world!!")
+# result = 100 / 0
+print("hello world")
 
-# result = "1" + 3 # -> 4? "13"?
-# result = int("1") + 3
-# print(result)
+# result = "1" + 3
+result = int("1") + 3
+print(result)
 
-undefined_variable = 'something'
+undefined_variable = 3
 print(undefined_variable)
-
-# テスト
-# テスト2
