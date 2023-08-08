@@ -9,3 +9,10 @@ if a:
     print("a has value!!")
 else:
     print("a is None!!")
+
+b = None
+
+if b:
+    print("a has value!!")
+else:
+    print("a is None!!")
