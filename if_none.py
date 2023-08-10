@@ -16,3 +16,10 @@ if b:
     print("a has value!!")
 else:
     print("a is None!!")
+
+c = "nill"
+
+if c:
+    print("a has value!!")
+else:
+    print("a is None!!")
