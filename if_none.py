@@ -23,3 +23,10 @@ if c:
     print("a has value!!")
 else:
     print("a is None!!")
+
+d = Nil
+
+if d:
+    print("a has value!!")
+else:
+    print("a is None!!")
