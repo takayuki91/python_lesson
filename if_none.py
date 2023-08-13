@@ -24,9 +24,17 @@ if c:
 else:
     print("a is None!!")
 
-d = Nil
+# d = Nil
+#
+# if d:
+#     print("a has value!!")
+# else:
+#     print("a is None!!")
 
-if d:
-    print("a has value!!")
-else:
-    print("a is None!!")
+# e = None
+# f = None
+# g = e + f
+# if g:
+#     print("a has value!!")
+# else:
+#     print("a is None!!")
