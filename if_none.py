@@ -38,3 +38,5 @@ else:
 #     print("a has value!!")
 # else:
 #     print("a is None!!")
+
+# NoneはあるがNilはない
